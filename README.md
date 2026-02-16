@@ -129,6 +129,95 @@ const fakhri = {
 
 ---
 
+## 📜 Certifications & Achievements
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://drive.google.com/file/d/1YQ66n2XfgrkIDLt3-dS8UIKWF74MXFB-/view" target="_blank">
+<img src="https://img.icons8.com/color/96/000000/certificate.png" width="60"/>
+<br><b>Introduction to Information Security</b>
+<br><i>Cyber Academy Indonesia</i>
+<br>📄 View Certificate
+</a>
+</td>
+<td align="center" width="33%">
+<a href="YOUR_GOOGLE_DRIVE_LINK_2" target="_blank">
+<img src="https://img.icons8.com/color/96/000000/certificate.png" width="60"/>
+<br><b>Certificate Name 2</b>
+<br><i>Institution/Platform</i>
+<br>📄 View Certificate
+</a>
+</td>
+<td align="center" width="33%">
+<a href="YOUR_GOOGLE_DRIVE_LINK_3" target="_blank">
+<img src="https://img.icons8.com/color/96/000000/certificate.png" width="60"/>
+<br><b>Certificate Name 3</b>
+<br><i>Institution/Platform</i>
+<br>📄 View Certificate
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="YOUR_GOOGLE_DRIVE_LINK_4" target="_blank">
+<img src="https://img.icons8.com/color/96/000000/certificate.png" width="60"/>
+<br><b>Certificate Name 4</b>
+<br><i>Institution/Platform</i>
+<br>📄 View Certificate
+</a>
+</td>
+<td align="center" width="33%">
+<a href="YOUR_GOOGLE_DRIVE_LINK_5" target="_blank">
+<img src="https://img.icons8.com/color/96/000000/certificate.png" width="60"/>
+<br><b>Certificate Name 5</b>
+<br><i>Institution/Platform</i>
+<br>📄 View Certificate
+</a>
+</td>
+<td align="center" width="33%">
+<a href="YOUR_GOOGLE_DRIVE_LINK_6" target="_blank">
+<img src="https://img.icons8.com/color/96/000000/certificate.png" width="60"/>
+<br><b>Certificate Name 6</b>
+<br><i>Institution/Platform</i>
+<br>📄 View Certificate
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="YOUR_GOOGLE_DRIVE_LINK_7" target="_blank">
+<img src="https://img.icons8.com/color/96/000000/certificate.png" width="60"/>
+<br><b>Certificate Name 7</b>
+<br><i>Institution/Platform</i>
+<br>📄 View Certificate
+</a>
+</td>
+<td align="center" width="33%">
+<a href="YOUR_GOOGLE_DRIVE_LINK_8" target="_blank">
+<img src="https://img.icons8.com/color/96/000000/certificate.png" width="60"/>
+<br><b>Certificate Name 8</b>
+<br><i>Institution/Platform</i>
+<br>📄 View Certificate
+</a>
+</td>
+<td align="center" width="33%">
+<a href="YOUR_GOOGLE_DRIVE_LINK_9" target="_blank">
+<img src="https://img.icons8.com/color/96/000000/certificate.png" width="60"/>
+<br><b>Certificate Name 9</b>
+<br><i>Institution/Platform</i>
+<br>📄 View Certificate
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 💬 Let's Connect!
 
 <div align="center">
