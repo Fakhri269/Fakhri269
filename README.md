@@ -1,57 +1,153 @@
-# Hi 👋 I'm Fakhri
+<div align="center">
 
-🚀 Fullstack Web Developer  
-🌐 Building modern, scalable, and high-performance web applications  
-💡 Passionate about clean architecture & great user experience  
+# 👋 Hi, I'm Fakhri
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Building+Scalable+Applications;Clean+Code+Enthusiast" alt="Typing SVG" />
 
-## 🧑‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-- 🔥 Focused on Fullstack Development  
-- ⚡ Love building interactive UI & powerful backend systems  
-- 📚 Always learning new technologies  
-- 🎯 Goal: Become an expert Fullstack Engineer  
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-### 🎨 Frontend
+```typescript
+const fakhri = {
+    role: "Fullstack Web Developer",
+    location: "Indonesia 🇮🇩",
+    focus: ["Modern Web Apps", "Clean Architecture", "User Experience"],
+    currentlyLearning: ["Advanced Next.js", "System Design", "Cloud Architecture"],
+    goal: "Become an Expert Fullstack Engineer",
+    motto: "Stay Consistent. Stay Building. 🔥"
+};
+```
+
+<div align="center">
+
+### 💡 What Drives Me
+
+> Building scalable, modern web applications with exceptional user experience  
+> Writing clean, maintainable code that stands the test of time  
+> Continuously learning and staying ahead of technology trends
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### ⚙️ Backend
+### Backend Development
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🗄️ Database & Backend Services
+### Database & Services
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Fakhri's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakhri269&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fakhri269&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhri269&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhri269&layout=compact&theme=tokyonight)
-
----
-
-## 🚀 What I Do
-
-✔️ Build responsive & modern UI  
-✔️ Develop RESTful APIs  
-✔️ Design scalable database structures  
-✔️ Deploy production-ready applications  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fakhri269&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
 
 ---
 
-## 🔥 Motto
+## 🎯 What I Build
 
-> "Stay consistent. Stay building."
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 Frontend
+- ✅ Responsive & Modern UI/UX
+- ✅ Interactive Web Applications
+- ✅ Component-Based Architecture
+- ✅ Performance Optimization
+- ✅ Accessibility Standards
+
+</td>
+<td width="50%">
+
+### ⚙️ Backend
+- ✅ RESTful API Development
+- ✅ Database Design & Optimization
+- ✅ Authentication & Authorization
+- ✅ Server-Side Logic
+- ✅ API Integration
+
+</td>
+</tr>
+</table>
 
 ---
 
-⭐️ From [fakhri269](https://github.com/fakhri269)
+## 🏆 Achievements & Highlights
+
+```diff
++ 🚀 Successfully deployed 10+ production applications
++ 💻 Contributed to open-source projects
++ 📚 Continuous learner and technology enthusiast
++ 🎯 Building scalable solutions for real-world problems
+```
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fakhri269&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph"/>
+</div>
+
+---
+
+## 💬 Let's Connect!
+
+<div align="center">
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 "Stay Consistent. Stay Building."
+
+![Profile Views](https://komarev.com/ghpvc/?username=fakhri269&color=blueviolet&style=for-the-badge)
+
+⭐️ From [fakhri269](https://github.com/fakhri269) with 💙
+
+</div>
