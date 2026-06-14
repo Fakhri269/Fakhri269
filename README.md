@@ -21,12 +21,13 @@
 
 ```typescript
 const fakhri = {
-  role        : "Fullstack Web Developer",
-  location    : "Bogor, Indonesia 🇮🇩",
-  focus       : ["Next.js & React", "Laravel", "System Architecture"],
-  learning    : ["Cloud-Native Applications", "Microservices Architecture"],
-  available   : true,  // open to collaborate
-  motto       : "Code with purpose. Build with passion. Learn relentlessly."
+  role     : "Fullstack Web Developer",
+  location : "Bogor, Indonesia 🇮🇩",
+  focus    : ["React", "Laravel", "Firebase"],
+  ai_tools : ["Claude AI", "ChatGPT", "DeepSeek AI", "Stitch AI"],
+  learning : ["Microservices Architecture", "AI Integration"],
+  available: true,  // open to collaborate
+  motto    : "Code with purpose. Build with passion. Learn relentlessly."
 };
 ```
 
@@ -37,7 +38,7 @@ Every project is a chance to push boundaries, ship clean work, and deliver somet
 
 ## Tech Stack
 
-**Frontend**
+**⭐ Core — Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -45,17 +46,18 @@ Every project is a chance to push boundaries, ship clean work, and deliver somet
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Backend**
+**⭐ Core — Backend**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 
-**Database & Services**
+**Database**
 
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 **Tools**
 
@@ -66,26 +68,58 @@ Every project is a chance to push boundaries, ship clean work, and deliver somet
 
 ---
 
+## 🤖 AI Tools I Use
+
+> Integrating AI into every stage of development — from code assistance to building AI-powered features in production apps.
+
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![DeepSeek AI](https://img.shields.io/badge/DeepSeek_AI-4D6BFE?style=flat-square&logoColor=white)
+![Stitch AI](https://img.shields.io/badge/Stitch_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <b>🤖 Claude AI</b><br>
+  <sub>Anthropic — reasoning & code review</sub>
+</td>
+<td align="center" width="25%">
+  <b>💬 ChatGPT</b><br>
+  <sub>OpenAI — brainstorming & writing</sub>
+</td>
+<td align="center" width="25%">
+  <b>🔵 DeepSeek AI</b><br>
+  <sub>DeepSeek — deep technical analysis</sub>
+</td>
+<td align="center" width="25%">
+  <b>🧵 Stitch AI</b><br>
+  <sub>Google — UI prototyping & design</sub>
+</td>
+</tr>
+</table>
+
+---
+
 ## What I Bring
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Frontend**
-- Pixel-perfect UI from design to production
-- Component architecture & reusable systems
+**⚛️ Frontend (React)**
+- Pixel-perfect components & design systems
+- Firebase Realtime DB & Authentication
 - Performance optimization & Core Web Vitals
-- Accessibility-first, fully responsive layouts
+- Fully responsive across all devices
 
 </td>
 <td width="50%" valign="top">
 
-**Backend**
-- Clean RESTful API design & documentation
+**🔴 Backend (Laravel + Firebase)**
+- Laravel REST API & Sanctum/JWT auth
+- Firebase Cloud Functions & Firestore rules
 - Database modeling & query optimization
-- Authentication, security & data protection
-- Seamless third-party integrations
+- AI API integration (Claude, ChatGPT, DeepSeek)
 
 </td>
 </tr>
@@ -124,7 +158,7 @@ Every project is a chance to push boundaries, ship clean work, and deliver somet
 <tr>
 <td align="center" width="33%">
   <a href="https://drive.google.com/file/d/1YQ66n2XfgrkIDLt3-dS8UIKWF74MXFB-/view" target="_blank">
-    <img src="https://drive.google.com/thumbnail?id=1YQ66n2XfgrkIDLt3-dS8UIKWF74MXFB-&sz=w400" width="280" alt="Information Security Certificate" style="border-radius: 10px;"/>
+    <img src="https://drive.google.com/thumbnail?id=1YQ66n2XfgrkIDLt3-dS8UIKWF74MXFB-&sz=w400" width="280" alt="Information Security" style="border-radius:10px"/>
     <br><br>
     <b>🔐 Introduction to Information Security</b><br>
     <sub>Cyber Academy Indonesia</sub>
@@ -132,7 +166,7 @@ Every project is a chance to push boundaries, ship clean work, and deliver somet
 </td>
 <td align="center" width="33%">
   <a href="https://drive.google.com/file/d/1kci2uqCwBS69PqSXMeCelZethWkaBO_B/view" target="_blank">
-    <img src="https://drive.google.com/thumbnail?id=1kci2uqCwBS69PqSXMeCelZethWkaBO_B&sz=w400" width="280" alt="CyberSecurity Certificate" style="border-radius: 10px;"/>
+    <img src="https://drive.google.com/thumbnail?id=1kci2uqCwBS69PqSXMeCelZethWkaBO_B&sz=w400" width="280" alt="CyberSecurity" style="border-radius:10px"/>
     <br><br>
     <b>🛡️ Basic CyberSecurity</b><br>
     <sub>Codepolitan</sub>
@@ -140,7 +174,7 @@ Every project is a chance to push boundaries, ship clean work, and deliver somet
 </td>
 <td align="center" width="33%">
   <a href="https://drive.google.com/file/d/1IyxslsCoC04GZpnsIi7RZDZo8UWKVqdn/view" target="_blank">
-    <img src="https://drive.google.com/thumbnail?id=1IyxslsCoC04GZpnsIi7RZDZo8UWKVqdn&sz=w400" width="280" alt="Cryptography Certificate" style="border-radius: 10px;"/>
+    <img src="https://drive.google.com/thumbnail?id=1IyxslsCoC04GZpnsIi7RZDZo8UWKVqdn&sz=w400" width="280" alt="Cryptography" style="border-radius:10px"/>
     <br><br>
     <b>🔑 Classical Cryptography for Beginners</b><br>
     <sub>Cyber Academy Indonesia</sub>
@@ -155,7 +189,7 @@ Every project is a chance to push boundaries, ship clean work, and deliver somet
 <tr>
 <td align="center" width="33%">
   <a href="https://drive.google.com/file/d/18x7nIYnSHUssN1_wqzYR5UJaO-2KfYAU/view" target="_blank">
-    <img src="https://drive.google.com/thumbnail?id=18x7nIYnSHUssN1_wqzYR5UJaO-2KfYAU&sz=w400" width="280" alt="Data Visualization Certificate" style="border-radius: 10px;"/>
+    <img src="https://drive.google.com/thumbnail?id=18x7nIYnSHUssN1_wqzYR5UJaO-2KfYAU&sz=w400" width="280" alt="Data Visualization" style="border-radius:10px"/>
     <br><br>
     <b>📊 Belajar Dasar Visualisasi Data</b><br>
     <sub>Dicoding Indonesia</sub>
@@ -163,7 +197,7 @@ Every project is a chance to push boundaries, ship clean work, and deliver somet
 </td>
 <td align="center" width="33%">
   <a href="https://drive.google.com/file/d/1DS-rBDLnygNgjQtww6I8z5m6gYG3Kuk-/view" target="_blank">
-    <img src="https://drive.google.com/thumbnail?id=1DS-rBDLnygNgjQtww6I8z5m6gYG3Kuk-&sz=w400" width="280" alt="Game Jam Certificate" style="border-radius: 10px;"/>
+    <img src="https://drive.google.com/thumbnail?id=1DS-rBDLnygNgjQtww6I8z5m6gYG3Kuk-&sz=w400" width="280" alt="Game Jam" style="border-radius:10px"/>
     <br><br>
     <b>🎮 Indonesia Game Week — Game Jam</b><br>
     <sub>Gamecomm Indonesia</sub>
@@ -171,7 +205,7 @@ Every project is a chance to push boundaries, ship clean work, and deliver somet
 </td>
 <td align="center" width="33%">
   <a href="https://drive.google.com/file/d/18nzZiIks83SAcMIPOJOvhOPp77WTNC0z/view" target="_blank">
-    <img src="https://drive.google.com/thumbnail?id=18nzZiIks83SAcMIPOJOvhOPp77WTNC0z&sz=w400" width="280" alt="Python Certificate" style="border-radius: 10px;"/>
+    <img src="https://drive.google.com/thumbnail?id=18nzZiIks83SAcMIPOJOvhOPp77WTNC0z&sz=w400" width="280" alt="Python" style="border-radius:10px"/>
     <br><br>
     <b>🐍 Memulai Pemrograman dengan Python</b><br>
     <sub>Dicoding Indonesia</sub>
@@ -186,7 +220,7 @@ Every project is a chance to push boundaries, ship clean work, and deliver somet
 <tr>
 <td align="center" width="33%">
   <a href="https://drive.google.com/file/d/1GbrEX9WobiliYdz6Qmip_MUe-r2OXbng/view" target="_blank">
-    <img src="https://drive.google.com/thumbnail?id=1GbrEX9WobiliYdz6Qmip_MUe-r2OXbng&sz=w400" width="280" alt="Financial Literacy Certificate" style="border-radius: 10px;"/>
+    <img src="https://drive.google.com/thumbnail?id=1GbrEX9WobiliYdz6Qmip_MUe-r2OXbng&sz=w400" width="280" alt="Financial Literacy" style="border-radius:10px"/>
     <br><br>
     <b>💡 Menyala Financial Literacy</b><br>
     <sub>Otoritas Jasa Keuangan</sub>
@@ -194,7 +228,7 @@ Every project is a chance to push boundaries, ship clean work, and deliver somet
 </td>
 <td align="center" width="33%">
   <a href="https://drive.google.com/file/d/1lC4tYaNZeidYDkc9xBoW4ey7xi6zZTW3/view" target="_blank">
-    <img src="https://drive.google.com/thumbnail?id=1lC4tYaNZeidYDkc9xBoW4ey7xi6zZTW3&sz=w400" width="280" alt="Google Cloud Certificate" style="border-radius: 10px;"/>
+    <img src="https://drive.google.com/thumbnail?id=1lC4tYaNZeidYDkc9xBoW4ey7xi6zZTW3&sz=w400" width="280" alt="Google Cloud" style="border-radius:10px"/>
     <br><br>
     <b>☁️ Pengimbasan Master Trainer 2024</b><br>
     <sub>Google Cloud Education</sub>
@@ -202,7 +236,7 @@ Every project is a chance to push boundaries, ship clean work, and deliver somet
 </td>
 <td align="center" width="33%">
   <a href="https://drive.google.com/file/d/12Pi5uU-OiKeWvSGHCL6EdBH4KY0-_gCp/view" target="_blank">
-    <img src="https://drive.google.com/thumbnail?id=12Pi5uU-OiKeWvSGHCL6EdBH4KY0-_gCp&sz=w400" width="280" alt="AI Certificate" style="border-radius: 10px;"/>
+    <img src="https://drive.google.com/thumbnail?id=12Pi5uU-OiKeWvSGHCL6EdBH4KY0-_gCp&sz=w400" width="280" alt="AI Basics" style="border-radius:10px"/>
     <br><br>
     <b>🤖 Belajar Dasar AI</b><br>
     <sub>Dicoding Indonesia</sub>
