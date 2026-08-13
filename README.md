@@ -35,12 +35,6 @@ const fakhri = {
 
 <br/><br/>
 
-**Contribution Graph**
-
-<img width="100%" src="https://ghchart.rshah.org/7F77DD/fakhri269" alt="Fakhri's GitHub contribution chart"/>
-
-<br/>
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fakhri269&theme=tokyo-night&hide_border=true&area=true"/>
 
 <br/>
