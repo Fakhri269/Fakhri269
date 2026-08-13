@@ -31,12 +31,14 @@ const fakhri = {
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=fakhri269&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhri269&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+![GitHub followers](https://img.shields.io/github/followers/fakhri269?style=flat-square&label=Followers&color=7F77DD)
+![GitHub repo stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffakhri269&label=Public%20Repos&query=public_repos&style=flat-square&color=7F77DD)
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=fakhri269&theme=tokyonight&hide_border=true"/>
+**Contribution Graph**
+
+<img width="100%" src="https://ghchart.rshah.org/7F77DD/fakhri269" alt="Fakhri's GitHub contribution chart"/>
 
 <br/>
 
