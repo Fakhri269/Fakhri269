@@ -12,25 +12,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=fakhri269&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhri269&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fakhri269&theme=tokyo-night&hide_border=true&area=true"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=fakhri269&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
-
-</div>
-
----
-
 ## Certifications
 
 <div align="center">
@@ -91,7 +72,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fakhri-sidqi-nuriadi-997982382)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fakhriisni)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@fakhrisidqinuriadi)
-
-<sub>Made with 💙 by Fakhri Sidqi Nuriadi · Bogor, Indonesia</sub>
 
 </div>
