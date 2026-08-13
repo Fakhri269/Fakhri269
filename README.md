@@ -31,8 +31,7 @@ const fakhri = {
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/fakhri269?style=flat-square&label=Followers&color=7F77DD)
-![GitHub repo stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffakhri269&label=Public%20Repos&query=public_repos&style=flat-square&color=7F77DD)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhri269&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br/><br/>
 
