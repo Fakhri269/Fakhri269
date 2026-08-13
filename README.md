@@ -44,17 +44,54 @@ const fakhri = {
 
 ## Certifications
 
-| Certificate | Issuer |
-|---|---|
-| [Introduction to Information Security](https://drive.google.com/file/d/1YQ66n2XfgrkIDLt3-dS8UIKWF74MXFB-/view) | Cyber Academy Indonesia |
-| [Basic CyberSecurity](https://drive.google.com/file/d/1kci2uqCwBS69PqSXMeCelZethWkaBO_B/view) | Codepolitan |
-| [Classical Cryptography for Beginners](https://drive.google.com/file/d/1IyxslsCoC04GZpnsIi7RZDZo8UWKVqdn/view) | Cyber Academy Indonesia |
-| [Belajar Dasar Visualisasi Data](https://drive.google.com/file/d/18x7nIYnSHUssN1_wqzYR5UJaO-2KfYAU/view) | Dicoding Indonesia |
-| [Indonesia Game Week — Game Jam](https://drive.google.com/file/d/1DS-rBDLnygNgjQtww6I8z5m6gYG3Kuk-/view) | Gamecomm Indonesia |
-| [Memulai Pemrograman dengan Python](https://drive.google.com/file/d/18nzZiIks83SAcMIPOJOvhOPp77WTNC0z/view) | Dicoding Indonesia |
-| [Menyala Financial Literacy](https://drive.google.com/file/d/1GbrEX9WobiliYdz6Qmip_MUe-r2OXbng/view) | Otoritas Jasa Keuangan |
-| [Pengimbasan Master Trainer 2024](https://drive.google.com/file/d/1lC4tYaNZeidYDkc9xBoW4ey7xi6zZTW3/view) | Google Cloud Education |
-| [Belajar Dasar AI](https://drive.google.com/file/d/12Pi5uU-OiKeWvSGHCL6EdBH4KY0-_gCp/view) | Dicoding Indonesia |
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://drive.google.com/file/d/1YQ66n2XfgrkIDLt3-dS8UIKWF74MXFB-/view"><img src="https://drive.google.com/thumbnail?id=1YQ66n2XfgrkIDLt3-dS8UIKWF74MXFB-&sz=w400" width="100%"/></a>
+<br/><b>Introduction to Information Security</b><br/>Cyber Academy Indonesia
+</td>
+<td align="center" width="33%">
+<a href="https://drive.google.com/file/d/1kci2uqCwBS69PqSXMeCelZethWkaBO_B/view"><img src="https://drive.google.com/thumbnail?id=1kci2uqCwBS69PqSXMeCelZethWkaBO_B&sz=w400" width="100%"/></a>
+<br/><b>Basic CyberSecurity</b><br/>Codepolitan
+</td>
+<td align="center" width="33%">
+<a href="https://drive.google.com/file/d/1IyxslsCoC04GZpnsIi7RZDZo8UWKVqdn/view"><img src="https://drive.google.com/thumbnail?id=1IyxslsCoC04GZpnsIi7RZDZo8UWKVqdn&sz=w400" width="100%"/></a>
+<br/><b>Classical Cryptography for Beginners</b><br/>Cyber Academy Indonesia
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="https://drive.google.com/file/d/18x7nIYnSHUssN1_wqzYR5UJaO-2KfYAU/view"><img src="https://drive.google.com/thumbnail?id=18x7nIYnSHUssN1_wqzYR5UJaO-2KfYAU&sz=w400" width="100%"/></a>
+<br/><b>Belajar Dasar Visualisasi Data</b><br/>Dicoding Indonesia
+</td>
+<td align="center" width="33%">
+<a href="https://drive.google.com/file/d/1DS-rBDLnygNgjQtww6I8z5m6gYG3Kuk-/view"><img src="https://drive.google.com/thumbnail?id=1DS-rBDLnygNgjQtww6I8z5m6gYG3Kuk-&sz=w400" width="100%"/></a>
+<br/><b>Indonesia Game Week — Game Jam</b><br/>Gamecomm Indonesia
+</td>
+<td align="center" width="33%">
+<a href="https://drive.google.com/file/d/18nzZiIks83SAcMIPOJOvhOPp77WTNC0z/view"><img src="https://drive.google.com/thumbnail?id=18nzZiIks83SAcMIPOJOvhOPp77WTNC0z&sz=w400" width="100%"/></a>
+<br/><b>Memulai Pemrograman dengan Python</b><br/>Dicoding Indonesia
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="https://drive.google.com/file/d/1GbrEX9WobiliYdz6Qmip_MUe-r2OXbng/view"><img src="https://drive.google.com/thumbnail?id=1GbrEX9WobiliYdz6Qmip_MUe-r2OXbng&sz=w400" width="100%"/></a>
+<br/><b>Menyala Financial Literacy</b><br/>Otoritas Jasa Keuangan
+</td>
+<td align="center" width="33%">
+<a href="https://drive.google.com/file/d/1lC4tYaNZeidYDkc9xBoW4ey7xi6zZTW3/view"><img src="https://drive.google.com/thumbnail?id=1lC4tYaNZeidYDkc9xBoW4ey7xi6zZTW3&sz=w400" width="100%"/></a>
+<br/><b>Pengimbasan Master Trainer 2024</b><br/>Google Cloud Education
+</td>
+<td align="center" width="33%">
+<a href="https://drive.google.com/file/d/12Pi5uU-OiKeWvSGHCL6EdBH4KY0-_gCp/view"><img src="https://drive.google.com/thumbnail?id=12Pi5uU-OiKeWvSGHCL6EdBH4KY0-_gCp&sz=w400" width="100%"/></a>
+<br/><b>Belajar Dasar AI</b><br/>Dicoding Indonesia
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
